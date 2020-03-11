@@ -4,5 +4,5 @@ The notebook investigate the sentiment, named entity of the english text and bui
 
 A NMT with attention is used to translate vietnamese to english and A NMT with biDirectional is used to translate english to vietnamese
 
-
+Simultaneously working on NLU model with transformer 
 
